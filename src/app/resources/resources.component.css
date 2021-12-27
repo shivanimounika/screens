@@ -1,0 +1,13 @@
+input {
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: gray;
+    border-radius: 2px;
+  }
+  input:focus {
+    border-color: gray;
+  }
+  .btn-warning{
+    margin-left: 65rem;
+  }
+  

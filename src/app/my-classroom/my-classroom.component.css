@@ -1,0 +1,24 @@
+.rating{
+    color: blue;
+    position: relative;
+}
+.button{
+    color: white;
+    background-color: blue;
+}
+.buttoncontinue{
+    width: 100px;
+    height: 40px;
+    margin-left: 60px;
+    background-color: #0000FF;
+}
+.course{
+    box-shadow: 2px 2px 4px #888888;
+    margin: 5px 3px;
+
+}
+.navbar-nav {
+    margin-left: auto;
+    float: right;
+}
+

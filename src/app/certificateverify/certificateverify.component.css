@@ -1,0 +1,20 @@
+input {
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: gray;
+    border-radius: 0px;
+  }
+  input:focus {
+    border-color: gray;
+  }
+.certificate-text{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin: auto;
+  max-width: 900px;
+  max-height: 600px;
+  
+}
+.editprofile{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin: auto;
+}

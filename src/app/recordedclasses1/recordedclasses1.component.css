@@ -1,0 +1,23 @@
+.upcoming-class{
+    background-color: #EBF3FE;
+    width:1100px;
+    height:90px;
+    position:relative;
+    bottom:40px;
+
+}
+.header-upcoming{
+    margin-top: 20px;
+}
+.h5{
+    font-size: 1rem;
+}
+.courseinfo{
+    border: 1px solid;
+}
+.Course-details{
+    margin-top: 30px;
+}
+.modules{
+    background-color:#FFFFFF; width:400px;height:500px;margin-left:40px;
+}

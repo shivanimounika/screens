@@ -1,0 +1,21 @@
+.orderdetails{
+    background-color:#707070;
+    color: white;
+    border: 2px solid;
+    width: 44rem;
+}
+
+.course-price{
+    color: #797979;
+    background-color:#F5F5F5;
+    border: 2px solid;
+}
+input {
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: gray;
+    border-radius: 0px;
+  }
+  input:focus {
+    border-color: gray;
+  }

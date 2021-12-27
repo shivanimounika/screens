@@ -1,0 +1,16 @@
+input {
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: gray;
+    border-radius: 0px;
+  }
+  input:focus {
+    border-color: gray;
+    width: 30px;
+  }
+  .btn-warning{
+    margin-left: 65rem;
+  }
+  .course-form{
+      box-shadow: 1px solid;
+  }

@@ -1,0 +1,53 @@
+input {
+  outline: 0;
+  border-width: 0 0 2px;
+  border-color: gray;
+  border-radius: 0px;
+}
+input:focus {
+  border-color: gray;
+}
+.signup-form {
+  width: 33rem;
+  border: 1px solid;
+  margin: auto;
+}
+.img{
+  border-radius: 3px;
+}
+.btn-primary{
+  padding-top: 2px 2px;
+}
+
+.strike {
+  display: block;
+  text-align: center;
+  overflow: hidden;
+  white-space: nowrap; 
+  padding: 20px 0px;
+}
+
+.strike > span {
+  position: relative;
+  display: inline-block;
+}
+
+.strike > span:before,
+.strike > span:after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  width: 9999px;
+  height: 1px;
+  background: #000;
+}
+
+.strike > span:before {
+  right: 100%;
+  margin-right: 15px;
+}
+
+.strike > span:after {
+  left: 100%;
+  margin-left: 15px;
+}

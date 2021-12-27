@@ -1,0 +1,30 @@
+.upcoming-class{
+    background-color: #EBF3FE;
+    padding: 10px 3rem;
+}
+.button{
+    background-color:#4285F2;
+}
+.header-upcoming{
+    padding-top: 8px;
+    background-color: #EBF3FE;
+}
+.h5{
+    font-size: 1rem;
+}
+.fa-check-square-o{
+    color:#097BDF;
+}
+.header-upcoming{
+    background-color: #EBF3FE;
+}
+input {
+    outline: 0;
+    border-width: 0 0 1px;
+    border-color: gray;
+    border-radius: 2px;
+    color: #E1E1E1;
+  }
+  input:focus {
+    border-color: gray;
+  }

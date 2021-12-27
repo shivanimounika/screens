@@ -1,0 +1,13 @@
+.header-upcoming{
+    margin-top: 20px;
+    background-color: #EBF3FE;
+}
+input {
+    outline: 0;
+    border-width: 0 0 1px;
+    border-color: gray;
+    border-radius: 2px;
+  }
+  input:focus {
+    border-color: gray;
+  }
